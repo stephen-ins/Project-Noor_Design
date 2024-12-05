@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bijoux",
+      "description": "Bijoux",
+      "image": "https://i.imgur.com/0j5q9jI.jpg",
+      "price": 100,
+      "category": "Accessoires"
+    },
+    {
+      "id": 2,
+      "name": "Accessoires",
+      "description": "Accessoires",
+      "image": "https://i.imgur.com/0j5q9jI.jpg",
+      "price": 100,
+      "category": "Accessoires"
+    },
+    {
+      "id": 3,
+      "name": "Accessoires",
+      "description": "Accessoires",
+      "image": "https://i.imgur.com/0j5q9jI.jpg",
+      "price": 100,
+      "category": "Accessoires"
+    },
+    {
+      "id": 4,
+      "name": "Accessoires",
+      "description": "Accessoires",
+      "image": "https://i.imgur.com/0j5q9jI.jpg",
+      "price": 100,
+      "category": "Accessoires"
+    }
+    
+  ]
+}       
+
+
+
